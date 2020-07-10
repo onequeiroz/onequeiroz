@@ -5,14 +5,14 @@ Trabalho como Dev Jr. Front-end na Avanade
 Estou estudando Angular e Azure, aprimorando meus conhecimentos em Front-end e Computação em Nuvem
 Também estou criando projetos à parte com o objetivo de aplicar os novos conhecimentos aprendidos
 
-⚡ Front
+⚡ Front-end:
     Angular
     HTML5
     CSS
     Javascript
     Typescript
 
-⚡ Backend
+⚡ Back-end:
     C#
     .NET Core
     SQL Server
