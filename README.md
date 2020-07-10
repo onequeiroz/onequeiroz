@@ -5,7 +5,7 @@ Trabalho como Dev Jr. Front-end na Avanade
 Estou estudando Angular e Azure, aprimorando meus conhecimentos em Front-end e Computação em Nuvem
 Também estou criando projetos à parte com o objetivo de aplicar os novos conhecimentos aprendidos
 
-⚡ Front-end:
+⚡ Front-end
 
     Angular
     
@@ -17,7 +17,7 @@ Também estou criando projetos à parte com o objetivo de aplicar os novos conhe
     
     Typescript
 
-⚡ Back-end:
+⚡ Back-end
 
     C#
     
@@ -27,8 +27,10 @@ Também estou criando projetos à parte com o objetivo de aplicar os novos conhe
     
     Swagger - API
 
-⚡ SCRUM
+⚡ Outros
 
-⚡ Git
+    SCRUM
+    
+    Git
 
-⚡ Azure DevOps
+    Azure DevOps
