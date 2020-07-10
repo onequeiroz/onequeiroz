@@ -1,16 +1,23 @@
-### Hi there 👋
+Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
 
-<!--
-**onequeiroz/onequeiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho como Dev Jr. Front-end na Avanade
 
-Here are some ideas to get you started:
+Atualmente estudo Angular e Azure, aprimorando meus conhecimentos em Front-end e Computação em Nuvem
+Também estou criando projetos à parte com o objetivo de aplicar os novos conhecimentos aprendidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Front
+    Angular
+    HTML5
+    CSS
+    Javascript
+    Typescript
+
+⚡ Backend
+    C#
+    .NET Core
+    SQL Server
+    Swagger - API
+
+⚡ SCRUM
+⚡ Git
+⚡ Azure DevOps
