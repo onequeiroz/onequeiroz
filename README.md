@@ -19,5 +19,7 @@ Também estou criando projetos à parte com o objetivo de aplicar os novos conhe
     Swagger - API
 
 ⚡ SCRUM
+
 ⚡ Git
+
 ⚡ Azure DevOps
