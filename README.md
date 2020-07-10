@@ -1,8 +1,8 @@
 Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
 
-Atualmente trabalho como Dev Jr. Front-end na Avanade
+Trabalho como Dev Jr. Front-end na Avanade
 
-Atualmente estudo Angular e Azure, aprimorando meus conhecimentos em Front-end e Computação em Nuvem
+Estou estudando Angular e Azure, aprimorando meus conhecimentos em Front-end e Computação em Nuvem
 Também estou criando projetos à parte com o objetivo de aplicar os novos conhecimentos aprendidos
 
 ⚡ Front
